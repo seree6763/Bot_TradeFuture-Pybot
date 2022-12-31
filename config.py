@@ -5,8 +5,8 @@ import os
 
 # LINE_NOTIFY_API = "xxxxxxxxxxxxxxxx"
 
-BINANCE_FUTURE_API_KEY = "D95sR8S2nbd0xjEZyYArQ4FUmAFRqdhaA0DaDlTfioTEX0ITWxRsgyUwFgYbp7C2"
-BINANCE_FUTURE_API_SECRET = "ZNTTF929R4G9rPvdQEvKLWSLEiQwp2d8xa4myYoPgRPFTzLPTp8JmL0Ed844qfKL"
+BINANCE_FUTURE_API_KEY = "xxxxxxxxxxxxxxxxxxxx"
+BINANCE_FUTURE_API_SECRET = "xxxxxxxxxxxxxxxxxxxxx"
 
 # แก้ไขเวลา Deploy ขึ้น heroku ใช้ ENV variable เพื่อปกป้อง api key
 # heroku config:set BINANCE_API_KEY=xxx
